@@ -6,6 +6,7 @@ export default class blog extends Component {
     render() {
         return (
             <React.Fragment>
+            
                 <div>
                     this is out blog page
                 </div><br/>
