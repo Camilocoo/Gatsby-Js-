@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import {Link} from "gatsby";
 import Layout from "../components/layout";
-import '../components/blog.css'
+import styles from  '../components/blog.module.css'
+
+console.log(styles);
 
 
 export default class blog extends Component {
@@ -11,7 +13,7 @@ export default class blog extends Component {
             <React.Fragment>
                 <Layout>
                     <div>
-                        <h1 className="blog-title">
+                        <h1 className="title">
                         this is out blog page
                         </h1>
                     </div><br/>
