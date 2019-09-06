@@ -1,0 +1,12 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color:red;
+    text-transform: capitalize;
+}
+
+.blog-title{
+    color:blue; 
+}

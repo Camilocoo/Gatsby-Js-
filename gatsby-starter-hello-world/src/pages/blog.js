@@ -10,7 +10,9 @@ export default class blog extends Component {
             <React.Fragment>
                 <Layout>
                     <div>
+                        <h1 className="blog-title">
                         this is out blog page
+                        </h1>
                     </div><br/>
                     <Link to="/">Home page</Link>
                 </Layout>
