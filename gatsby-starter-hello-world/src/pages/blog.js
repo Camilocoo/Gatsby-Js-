@@ -16,6 +16,7 @@ export default class blog extends Component {
                         <h1 className="title">
                         this is out blog page
                         </h1>
+                        <h1 className={styles.green}>this is the second header</h1>
                     </div><br/>
                     <Link to="/">Home page</Link>
                 </Layout>
