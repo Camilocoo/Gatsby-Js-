@@ -8,6 +8,7 @@ const Navbar = () => {
             <ul>
                 <li>
                     {/*<Link className={styles.navbar}>home</Link>*/}
+                    <Link to="/">home</Link>
                 </li>
                 <li>
                     <Link to="/blog/">Blog</Link>
@@ -17,6 +18,9 @@ const Navbar = () => {
                 </li>
                 <li>
                     <Link to="/examples/">examples</Link>
+                </li>
+                <li>
+                    <Link to="/images/">images</Link>
                 </li>
             </ul>
         </nav>
