@@ -10,7 +10,8 @@ module.exports = {
 siteMetadata:{
   title:'tutorial',
   description:"just some description about our site",
-  author:'@jhonDoe'
+  author:'@jhonDoe',
+  data:{name:"jhoneDoe",age:25}
 },
 
   plugins:[

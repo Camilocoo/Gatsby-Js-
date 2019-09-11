@@ -3,10 +3,11 @@
 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 h1{
-    color:red;
+    color:purple;
     text-transform: capitalize;
 }
 
