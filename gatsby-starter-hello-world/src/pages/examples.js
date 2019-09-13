@@ -7,7 +7,7 @@ import {graphql} from 'gatsby';
 
 
 const examples = (props) => {
-    console.log(props)
+    
     const {name, age} = props.data.site.siteMetadata.data
     return (
         <div>

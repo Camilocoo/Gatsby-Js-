@@ -56,7 +56,7 @@ margin:0 auto 10rem auto;
     width:100%;
 }
 article{
-    border:3px solid white;
+    border:3px solid red;
     padding:1rem 0; 
 }
 @media (min-width:992px){

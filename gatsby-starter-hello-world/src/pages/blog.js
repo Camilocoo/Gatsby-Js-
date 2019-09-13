@@ -3,7 +3,7 @@ import {Link} from "gatsby";
 import Layout from "../components/layout";
 import styles from  '../components/blog.module.css'
 
-console.log(styles);
+
 
 
 export default class blog extends Component {

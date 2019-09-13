@@ -3,6 +3,7 @@
  *
  * See: https://www.gatsbyjs.org/docs/gatsby-config/
  */
+
 require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
@@ -38,7 +39,8 @@ siteMetadata:{
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
-    `gatsby-plugin-styled-components`
+    `gatsby-plugin-styled-components`,
+    `gatsby-plugin-playground`
 
 ],
   
